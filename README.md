@@ -4,9 +4,7 @@ Dates: 27-30 May 2024
 Venue: University of Évora
 
 # Objectives of the course:
-
-
-## Objetives: 
+ 
 This course aims to provide a concise introduction to conducting applied analyses of population genetic data in R with special emphasis in populations of domestic animals and of species under conservation programs. R provides a tool with its packages that allows analyses of most data conveniently and on all major platforms Microsoft windows, Linux, and Apples’s OS X. R is an open-source statistical programming and graphing language that includes tools for statistical, population genetics, genomics, phylogenetics, and comparative genomic analyses. Participants are expected to have a basic understanding of population genetic theory and applications. Finally, this course will be based on traditional population genetics based on allele frequencies establishing the foundations for the development and application of genetic selection.
 
 
