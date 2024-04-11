@@ -18,7 +18,7 @@ This course aims to provide a concise introduction to conducting applied analyse
 
 4- Application of Best Linear Unbiased Predictor methodology for the evaluation of the genetic merit of domestic animals. Discussion of the application in companion animals and wild threatened populations. Case Studies: application to local breeds. Discussion focusing in Portuguese Local breeds and populations. 
 
-## Teachers: Andreia J. Amaral (AJA), University of Évora  and Niccoló Macciota (NM),  University of Sassari
+## Teachers: Niccoló Macciota (NM),  University of Sassari and Andreia J. Amaral (AJA), University of Évora
 
 ![foto Macciotta](https://github.com/andreiaamaral/RPopGenetics_BLUP/assets/8037971/83bbcd72-c90c-4a41-b4bb-ec6d307cf5e0)
 
