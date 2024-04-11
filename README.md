@@ -6,7 +6,7 @@ Venue: University of Évora
 # Objectives of the course:
 
 
-## Objetivos: 
+## Objetives: 
 This course aims to provide a concise introduction to conducting applied analyses of population genetic data in R with special emphasis in populations of domestic animals and of species under conservation programs. R provides a tool with its packages that allows analyses of most data conveniently and on all major platforms Microsoft windows, Linux, and Apples’s OS X. R is an open-source statistical programming and graphing language that includes tools for statistical, population genetics, genomics, phylogenetics, and comparative genomic analyses. Participants are expected to have a basic understanding of population genetic theory and applications. Finally, this course will be based on traditional population genetics based on allele frequencies establishing the foundations for the development and application of genetic selection.
 
 
@@ -22,7 +22,7 @@ This course aims to provide a concise introduction to conducting applied analyse
 
 ## Teachers: Andreia J. Amaral (AJA), University of Évora  and Niccoló Macciota (NM),  University of Sassari
 
-![foto Macciotta](https://github.com/andreiaamaral/RPopGenetics_BLUP/assets/8037971/3b9d3833-2c61-4786-9949-b6936de0d355)
+![foto Macciotta](https://github.com/andreiaamaral/RPopGenetics_BLUP/assets/8037971/83bbcd72-c90c-4a41-b4bb-ec6d307cf5e0)
 
 NM is full professor of animal breeding at the Department of Agricultural Science of the University of Sassari. He gives courses in animal breeding and in statistics for graduated students, and in statistics for PhD students. He is the chair of the Teaching Committee of the Department. He is the president of the Italian Association for Animal Science and Production (ASPA). He is member of the technical commission of the Italian Simmental cattle breed and of the In 2006, he has been visiting professor at the Centre of Genetic Improvement of Livestock of the Department of Animal and Poultry Science of Guelph University (Canada) . He is author or co-
 author of more than 120 articles published in international scientific Journals ranked on Scopus.
