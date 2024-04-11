@@ -41,6 +41,7 @@ This course is co-funded:
 
 # GEroNIMO project
 
+![ID_EF_Logo-GEroNIMO_TRANSP_S](https://github.com/andreiaamaral/RPopGenetics_BLUP/assets/8037971/fceb034f-d762-4d91-a9b9-4f9b5882f857)
 
 it has received funding from European Union’s Horizon 2020 research and innovation program under Grant Agreement No 101000236. This publication reflects the views only of the author, and not the European Commission (EC). The EC is not liable for any use that may be made of the information contained herein.
 
