@@ -47,5 +47,7 @@ it has received funding from European Union’s Horizon 2020 research and innova
 
 # Eramus +
 
+![pngegg](https://github.com/andreiaamaral/RPopGenetics_BLUP/assets/8037971/c3d1b27a-b391-4b9a-bb69-94bbd1c4b627)
+
 
 
