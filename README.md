@@ -23,7 +23,7 @@ This course aims to provide a concise introduction to conducting applied analyse
 ## Teachers: Andreia J. Amaral (AJA), University of Évora  and Niccoló Macciota (NM),  University of Sassari
 
 
-![foto Macciotta](https://github.com/andreiaamaral/RPopGenetics_BLUP/assets/8037971/3b9d3833-2c61-4786-9949-b6936de0d355 = 10x 10)
+![foto Macciotta](https://github.com/andreiaamaral/RPopGenetics_BLUP/assets/8037971/3b9d3833-2c61-4786-9949-b6936de0d355 | width=100)
 
 NM is full professor of animal breeding at the Department of Agricultural Science of the University of Sassari. He gives courses in animal breeding and in statistics for graduated students, and in statistics for PhD students. He is the chair of the Teaching Committee of the Department. He is the president of the Italian Association for Animal Science and Production (ASPA). He is member of the technical commission of the Italian Simmental cattle breed and of the In 2006, he has been visiting professor at the Centre of Genetic Improvement of Livestock of the Department of Animal and Poultry Science of Guelph University (Canada) . He is author or co-
 author of more than 120 articles published in international scientific Journals ranked on Scopus.
