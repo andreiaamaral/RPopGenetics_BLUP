@@ -34,3 +34,17 @@ Hs research interests are:
 ![Andreia](https://github.com/andreiaamaral/RPopGenetics_BLUP/assets/8037971/712ffe0e-8a32-4781-8cfa-440bf0258920)
 
 AJA  is an assistant professor at University of Évora of animal breeding and genetics providing education to the MSc of Veterinarian Medicine and of Zootechnical Engineering.  AJA currently leads a line of research entitled “Molecular Mechanisms Associated with Host/Pathogen Adaptation” in which she applies an approach of integrative genetics. Since her PhD at Wageningen University in the Netherlands (Genetics 2008;179(1):569-79; and PLoS ONE 6(4): e14782), where she pioneered the first studies using WGS to study genome architecture and selection.  AJA continued a path aiming to understand the basis of genetics architecture, and its link to the phenome working in the biomedicine field (EMBO J 2017; 36(3): 346-360). AJA has made contributions to the development of software to analyse small-RNA-seq data (BMC Bioinformatics 22, 37 (2021)). She lead BOVREG(H2020) in Portugal which contributed largely to the development of open-source software development for the analyses of animal genome (BOVREG, PAG 2020). Currently she leads PT-GeroNIMO (H2020), AngFarmBiodiv(Front Genet. 2022 Oct 24;13:1003069) and ResisTrypSheep. These studies focus on the effect of epigenetics in the phenome and adaptation. 
+
+## Funding
+
+This course is co-funded:
+
+# GEroNIMO project
+
+
+it has received funding from European Union’s Horizon 2020 research and innovation program under Grant Agreement No 101000236. This publication reflects the views only of the author, and not the European Commission (EC). The EC is not liable for any use that may be made of the information contained herein.
+
+# Eramus +
+
+
+
