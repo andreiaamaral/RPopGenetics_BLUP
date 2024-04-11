@@ -1,4 +1,4 @@
-# RPopGenetics_BLUP
+![eng_banner](https://github.com/andreiaamaral/RPopGenetics_BLUP/assets/8037971/235dbedc-5efb-404a-8854-0ba82a923d1f)
 
 Dates: 27-30 May 2024
 Venue: University of Évora
