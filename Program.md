@@ -3,7 +3,7 @@
 # Day 1 - 27 may
 
 | Hour | Content|
-| -- | ---|
+| --- | ---|
 | 2-3 p.m.| Introduction to R: An introduction to the installation and usage of R and of Rstudio will be provided|
 | 3-3:30 p.m.| Coffee-break|
 | 3:30- 5 p.m.| Basic concepts of population genetic theory and applications. Laws of Mendel, Wright Fisher Model, Hardy-Weinberg equilibrium. Basic metrics in population genetics.|
