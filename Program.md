@@ -23,12 +23,15 @@
 
 | Hour | Content|
 | --- | --- |
-| 9 a.m.- 5 p.m. |To be added soon|
+| 9 a.m.- 5 p.m. |Application of Best Linear Unbiased Predictor methodology for the evaluation of the genetic merit of domestic animals. |
+| 10:30-11 a.m. and 3-3:30p.m. | Coffee-break|
+
 
 ## Day 4 - 30 May
 
 | Hour | Content|
 | --- | --- |
 | 9 a.m.- 12 p.m. |Portuguese breeds - the future ahead, which could be the solutions?|
+| 10:30-11 a.m.| Coffee-break|
 
 
