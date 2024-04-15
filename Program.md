@@ -13,7 +13,7 @@
 
 | Hour | Content|
 | --- | --- |
-| 9-10:30 a.m. |Introduction to animal breeding. Heritability, transmission model|
+| 9-10:30 a.m. |Introduction to animal breeding: steps of animal breeding program, heritability, transmission model|
 | 10:30-11 a.m.| Coffee-break|
 | 2-3:30p.m.| Breeding value estimation: single henotype, single source of information and using multiple sources of information (selection index).
 | 3-3:30p.m.| Coffee-break|
