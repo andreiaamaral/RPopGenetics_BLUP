@@ -19,4 +19,16 @@
 | 3-3:30p.m.| Coffee-break|
 | 3:30-5p.m.| Algebra calculus with R|
 
+## Day 3 - 29 May
+
+| Hour | Content|
+| --- | --- |
+| 9 a.m.- 5 p.m. |To be added soon|
+
+## Day 4 - 30 May
+
+| Hour | Content|
+| --- | --- |
+| 9 a.m.- 12 p.m. |Portuguese breeds - the future ahead, which could be the solutions?|
+
 
