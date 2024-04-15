@@ -1,6 +1,6 @@
-## Program
+# Detailed program
 
-# Day 1 - 27 may
+## Day 1 - 27 may
 
 | Hour | Content|
 | --- | --- |
