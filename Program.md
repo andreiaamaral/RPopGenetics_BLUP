@@ -15,16 +15,22 @@
 | --- | --- |
 | 9-10:30 a.m. |Introduction to animal breeding: steps of animal breeding program, heritability, transmission model|
 | 10:30-11 a.m.| Coffee-break|
-| 2-3:30p.m.| Breeding value estimation: single henotype, single source of information and using multiple sources of information (selection index).
+| 11 a.m -12:am| Introduction to R: An introduction to the installation and usage of R and of Rstudio will be provided|
+| 12:am-2 p.m. | Lunch break 
+| 2-3p.m.| Matrix algebra with R|
 | 3-3:30p.m.| Coffee-break|
-| 3:30-5p.m.| Algebra calculus with R|
+| 3:30-5p.m.| Breeding value estimation: selection index theory, single henotype, single source of information and using multiple sources of information.
 
 ## Day 3 - 29 May
 
 | Hour | Content|
-| --- | --- |
-| 9 a.m.- 5 p.m. |Application of Best Linear Unbiased Predictor methodology for the evaluation of the genetic merit of domestic animals. |
-| 10:30-11 a.m. and 3-3:30p.m. | Coffee-break|
+| 9-10:30 a.m. |Practice with selection index examples
+| 10:30-11 a.m.| Coffee-break|
+| 11 a.m -12:am| The Best Linear Unbiased Predictor methodology for the evaluation of the genetic merit of domestic animals
+| 12:am-2 p.m. | Lunch break
+| 2-3p.m.| Proctice with BLUP examples
+| 3-3:30p.m.| Coffee-break|
+| 3:30-5p.m.| Evolution of BLUP in the context of genomic selection: GBLUP and single step GBLUP
 
 
 ## Day 4 - 30 May
