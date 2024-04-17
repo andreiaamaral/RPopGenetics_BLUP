@@ -24,13 +24,13 @@
 ## Day 3 - 29 May
 
 | Hour | Content|
-| 9-10:30 a.m. |Practice with selection index examples
+| 9-10:30 a.m. |Practice with selection index examples|
 | 10:30-11 a.m.| Coffee-break|
-| 11 a.m -12:am| The Best Linear Unbiased Predictor methodology for the evaluation of the genetic merit of domestic animals
-| 12:am-2 p.m. | Lunch break
-| 2-3p.m.| Proctice with BLUP examples
+| 11 a.m -12:am| The Best Linear Unbiased Predictor methodology for the evaluation of the genetic merit of domestic animals|
+| 12:am-2 p.m. | Lunch break|
+| 2-3p.m.| Proctice with BLUP examples|
 | 3-3:30p.m.| Coffee-break|
-| 3:30-5p.m.| Evolution of BLUP in the context of genomic selection: GBLUP and single step GBLUP
+| 3:30-5p.m.| Evolution of BLUP in the context of genomic selection: GBLUP and single step GBLUP|
 
 
 ## Day 4 - 30 May
