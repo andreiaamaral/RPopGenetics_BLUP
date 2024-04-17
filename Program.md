@@ -24,6 +24,7 @@
 ## Day 3 - 29 May
 
 | Hour | Content|
+| --- | --- |
 | 9-10:30 a.m. |Practice with selection index examples|
 | 10:30-11 a.m.| Coffee-break|
 | 11 a.m -12:am| The Best Linear Unbiased Predictor methodology for the evaluation of the genetic merit of domestic animals|
