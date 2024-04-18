@@ -27,7 +27,7 @@
 | --- | --- |
 | 9-10:30 a.m. |The Best Linear Unbiased Predictor methodology for the evaluation of the genetic merit of domestic animals|
 | 10:30-11 a.m.| Coffee-break|
-| 11 a.m -12:am|Proctice with BLUP examples |
+| 11 a.m -12:am|Practice with BLUP examples |
 | 12:am-2 p.m. | Lunch break|
 | 2-3p.m.| Principles of genomic selection|
 | 3-3:30p.m.| Coffee-break|
