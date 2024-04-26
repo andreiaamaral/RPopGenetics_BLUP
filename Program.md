@@ -25,7 +25,7 @@
 
 | Hour | Content|
 | --- | --- |
-| 9-10:30 a.m. |The Best Linear Unbiased Predictor methodology for the evaluation of the genetic merit of domestic animals|
+| 9-10:30 a.m. |The Best Linear Unbiased Predictor methodology for the evaluation of the genetic merit of livestock|
 | 10:30-11 a.m.| Coffee-break|
 | 11 a.m -12:am|Practice with BLUP examples |
 | 12:am-2 p.m. | Lunch break|
