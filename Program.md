@@ -17,7 +17,7 @@
 | 10:30-11 a.m.| Coffee-break|
 | 11 a.m -12:am| Matrix algebra with R |
 | 12:am-2 p.m. | Lunch break 
-| 2-3p.m.|Breeding value estimation: selection index theory, single henotype, single source of information and using multiple sources of information|
+| 2-3p.m.|Breeding value estimation: selection index theory, single phenotype, single source of information and using multiple sources of information|
 | 3-3:30p.m.| Coffee-break|
 | 3:30-5p.m.| Practice with selection index examples.
 
